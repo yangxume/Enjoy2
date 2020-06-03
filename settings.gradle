@@ -1,2 +1,3 @@
 rootProject.name='Enjoy2'
 include ':app'
+include ':200602_io'
